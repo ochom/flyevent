@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ochom/flyevent/static/css/main.36e69817.chunk.css",
+    "main.js": "/ochom/flyevent/static/js/main.97e7d8bf.chunk.js",
+    "main.js.map": "/ochom/flyevent/static/js/main.97e7d8bf.chunk.js.map",
+    "runtime-main.js": "/ochom/flyevent/static/js/runtime-main.f4907f17.js",
+    "runtime-main.js.map": "/ochom/flyevent/static/js/runtime-main.f4907f17.js.map",
+    "static/css/2.67123b20.chunk.css": "/ochom/flyevent/static/css/2.67123b20.chunk.css",
+    "static/js/2.c55af3a9.chunk.js": "/ochom/flyevent/static/js/2.c55af3a9.chunk.js",
+    "static/js/2.c55af3a9.chunk.js.map": "/ochom/flyevent/static/js/2.c55af3a9.chunk.js.map",
+    "index.html": "/ochom/flyevent/index.html",
+    "precache-manifest.8865a2839dae5fc5d573f3f455da07c0.js": "/ochom/flyevent/precache-manifest.8865a2839dae5fc5d573f3f455da07c0.js",
+    "service-worker.js": "/ochom/flyevent/service-worker.js",
+    "static/css/2.67123b20.chunk.css.map": "/ochom/flyevent/static/css/2.67123b20.chunk.css.map",
+    "static/css/main.36e69817.chunk.css.map": "/ochom/flyevent/static/css/main.36e69817.chunk.css.map",
+    "static/js/2.c55af3a9.chunk.js.LICENSE": "/ochom/flyevent/static/js/2.c55af3a9.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4907f17.js",
+    "static/css/2.67123b20.chunk.css",
+    "static/js/2.c55af3a9.chunk.js",
+    "static/css/main.36e69817.chunk.css",
+    "static/js/main.97e7d8bf.chunk.js"
+  ]
+}
